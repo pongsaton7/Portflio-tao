@@ -19,6 +19,12 @@ p {
   color: rgb(85, 85, 85);
 }
 
+body {
+  background: linear-gradient(to right,#ff00cc, #00ccff);
+  box-shadow:  0 0 10px rgba(0, 255, 255, 0.8), 0 0 20px rgba(0, 255, 255, 0.6), 0 0 30px rgba(0, 255, 255, 0.4);
+  color: #ffffff;
+}
+
 /* TRANSITION */
 
 a,
